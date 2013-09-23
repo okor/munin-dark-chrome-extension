@@ -4,6 +4,11 @@
 	"version": "1.0",
 	"homepage_url": "http://jasonormand.com/2013/09/22/a-dark-munin-theme/",
 	"manifest_version": 2, 
+	"icons": { 
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png" 
+  },
 	"web_accessible_resources": [ "munin-dark-theme.css"	],
 	"content_scripts": [ {
 		"js": [ "munin-dark-theme.js" ],
