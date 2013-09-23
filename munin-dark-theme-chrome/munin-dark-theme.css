@@ -1,0 +1,6 @@
+img { -webkit-filter: invert(1) !important; }
+div.logo { -webkit-filter: invert(1) !important; background-color: white !important;} 
+* { background-color: black !important; }
+*:not(a) { color: white !important; border: none !important; }
+a { color: #4dfb45 !important; border: none !important; font-weight: normal !important; }
+
